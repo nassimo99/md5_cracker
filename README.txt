@@ -6,6 +6,4 @@ md5_cracker by maplehaxx
   There are lots of good password textfiles out there, just do a google search.
 
 
-Thanks!
-
 Nate
